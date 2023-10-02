@@ -1,4 +1,4 @@
-package gee
+package gee_day1
 
 import (
 	"fmt"
